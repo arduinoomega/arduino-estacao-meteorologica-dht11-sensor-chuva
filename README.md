@@ -7,4 +7,6 @@ O monitoramento de variáveis, tais como: umidade, temperatura e pressão de um 
 
 Tutorial completo pode ser visto em http://portaldoarduino.com.br/estacao-meteorologica-desenvolvendo-um-no-sensor-basico-de-uma-estacao-meteorologica/
 
+Canal do Danilo no YouTube: <a href="https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA">Dan Maker</a>
+
 Faça bom uso!
