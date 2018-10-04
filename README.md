@@ -9,6 +9,6 @@ Tutorial completo pode ser visto em http://portaldoarduino.com.br/estacao-meteor
 
 Canal do Danilo no YouTube: <a href="https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA" target="_blank">Dan Maker</a>
 
-Confira mais tutoriais em nosso blog:  <a href="www.portaldoarduino.com.br" target="-blank">Portal do Arduino</a>
+Confira mais tutoriais em nosso blog:  <a href="http://portaldoarduino.com.br/" target="_blank">Portal do Arduino</a>
 
 Faça bom uso!
