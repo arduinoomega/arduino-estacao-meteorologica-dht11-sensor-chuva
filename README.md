@@ -5,11 +5,8 @@
 
 O monitoramento de variáveis, tais como: umidade, temperatura e pressão de um determinado ambiente são fundamentais para os mais diversos tipos de setores do mundo moderno. Entretanto, realizar esta tarefa de forma manual pode ser extremamente lenta em termos de aferição e facilmente suscetível a erros. Com isso, o desenvolvimento de plataformas capazes de realizar o monitoramento destas variáveis com uma baixa taxa de erro e em intervalos fixos, possibilitam com que empresas e pesquisadores possam tomar decisões a respeito do que fazer dentro de um determinado ambiente. Sabendo de tudo isso, neste tutorial iremos aprender a como desenvolver um nó sensor básico, capaz de aferir a temperatura, umidade e a possibilidade de chuva de um determinado ambiente, utilizando um Arduino pro mini, um sensor de temperatura DHT11 e também um sensor de chuva.
 
-Tutorial completo pode ser visto em <a href="http://portaldoarduino.com.br/estacao-meteorologica-desenvolvendo-um-no-sensor-basico-de-uma-estacao-meteorologica/" target="_blank">Portal do Arduino - Estação meteorológica com Arduino – desenvolvendo um nó sensor básico de uma estação meteorológica</a>
+<img src="http://portaldoarduino.com.br/wp-content/uploads/2018/08/sensor-768x484.png" />
 
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/estacao-meteorologica-arduino-dht11-sensor-de-cuva/" target="_blank">Portal do Arduino - Estação meteorológica com Arduino – desenvolvendo um nó sensor básico de uma estação meteorológica</a>
 
-Canal do Danilo no YouTube: <a href="https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA" target="_blank">Dan Maker</a>
-
-Confira mais tutoriais em nosso blog:  <a href="http://portaldoarduino.com.br/" target="_blank">Portal do Arduino</a>
-
-Faça bom uso!
+### Tutorial por Danilo do canal do YouTube Dan Maker: <a href="https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA" target="_blank">Dan Maker</a>
